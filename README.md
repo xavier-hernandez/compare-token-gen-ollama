@@ -1,9 +1,6 @@
-# Comparing token generation across ollama models (with the help of Claude)
-
-
 # bench.sh — Ollama Token Benchmark
 
-A shell script for benchmarking token generation speed (tokens/sec) across Ollama models running in Docker on Unraid.
+A shell script **(built with Claude)** for benchmarking token generation speed (tokens/sec) across Ollama models running in Docker on Unraid.
 
 ---
 
